@@ -2,8 +2,8 @@
 
 ## Requirements 
 
-#### Git 
-#### GNU Stow  
+- Git 
+- GNU Stow  
 
 ## Installation 
 ```
